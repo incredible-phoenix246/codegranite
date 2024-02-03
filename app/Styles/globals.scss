@@ -1,13 +1,12 @@
 @import url('https://fonts.cdnfonts.com/css/made-tommy-outline');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 
 :root {
   --loader-text-color: #f6e9fe;
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 * {
   box-sizing: border-box;
